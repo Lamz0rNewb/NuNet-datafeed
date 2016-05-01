@@ -13,10 +13,6 @@
             "amount" : 16000.0
         },
         {
-            "address" : "BDjdqcmTXjeWFtXCFC6j3GjcbPwBDu4c7k",
-            "amount" : 328.0
-        },
-        {
             "address" : "BJ8vw82j8CTQwzi4QLocyddkgVtPkrcHXz",
             "amount" : 4000.0
         }
@@ -49,9 +45,10 @@
         }
     ],
     "motions" : [
-        "392b89104ac63202baa11df9b4844db5f91532ed",
-        "685bcc7211db2536734042c65d78d150348a3ec5",
         "3867806079bb45338c233ebd3dd364f40df69334",
+        "392b89104ac63202baa11df9b4844db5f91532ed",
+        "9d3538c6e95e0cfeae7afeeb5e82874a25040276",
+        "685bcc7211db2536734042c65d78d150348a3ec5",
         "5b184631f652c286b6b85c284a4f1b8839bf41fb"
     ],
     "fees" : {
